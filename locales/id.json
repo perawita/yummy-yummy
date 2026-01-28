@@ -1,112 +1,112 @@
 {
-  "hero": {
-    "subtitle": "Food & Beverages",
-    "title": "Yummy Yummy",
-    "title_2": "Food & Drink",
-    "description": "A perfect blend of local favorites and authentic dishes — from freshly cooked Shrimp Fried Noodles to mouth-watering Burritos. Served with the warmest hospitality in the heart of Legian, Bali.",
-    "CTA": "View Menu"
-  },
-  "about": {
-    "subtitle": "About Us",
-    "title": "Comfort in Every Detail",
-    "description": "Yummy Yummy is a casual restaurant that offers a warm and friendly atmosphere. We create a special place to enjoy delicious food, share stories, and feel right at home.",
-    "item": {
-      "1": {
-        "title": "Casual & Cozy Atmosphere",
-        "description": "Comfortable interior design with rustic-vintage touches and modern tropical vibes, perfect for relaxing and enjoying quality time."
-      },
-      "2": {
-        "title": "Free Wi-Fi",
-        "description": "Stable internet connection for light work, browsing, or staying connected with friends and family."
-      },
-      "3": {
-        "title": "Signature Menu & Cocktails",
-        "description": "A selection of signature drinks and fusion dishes that combine local and international flavors."
-      },
-      "4": {
-        "title": "Flexible Opening Hours",
-        "description": "Open daily from 08:00 to 22:00, ideal for breakfast, lunch, dinner, or simply unwinding."
-      },
-      "5": {
-        "title": "Friendly for Everyone",
-        "description": "Fully accessible with wheelchair-friendly access and comfortable seating for all guests."
-      },
-      "6": {
-        "title": "Perfect for Groups & Travelers",
-        "description": "Ideal for families, friends, and travelers visiting Legian, with warm and personal service."
-      }
-    }
-  },
-  "menu": {
-    "title": "Signature Menu",
-    "subtitle_1": "— Beverages —",
-    "subtitle_2": "— Food —"
-  },
-  "reservation": {
-    "subtitle": "Reservation",
-    "title": "We Look Forward to Welcoming You",
-    "description": "Reserve a table with ease or check availability. Visit Yummy Yummy and enjoy a warm, relaxed dining experience filled with authentic flavors.",
-    "item": {
-      "location": {
-        "title": "Location",
-        "road": "Jl. Benesari No.10, Legian,",
-        "subdistrict": "Kuta District, Badung Regency,",
-        "province": "Bali 80361"
-      },
-      "phone": {
-        "title": "Phone",
-        "number": "+62 819-3430-3031"
-      },
-      "opening_hours": {
-        "title": "Opening Hours",
-        "hours": "08:00 - 22:00"
-      }
-    }
-  },
-  "facilities": {
-    "subtitle": "Comfort & Facilities",
-    "title": "Enhance Your Experience",
-    "description": "We provide a range of facilities to ensure your dining experience is more comfortable, enjoyable, and memorable every time you visit.",
-    "item": {
-      "1": {
-        "title": "Alcoholic Beverages Available",
-        "description": "A selection of premium wines, beers, and cocktails for adult guests seeking a more complete dining experience."
-      },
-      "2": {
-        "title": "Group-Friendly Layout",
-        "description": "Flexible seating and space arrangements for large families, group gatherings, or corporate events."
-      },
-      "3": {
-        "title": "Spacious Parking",
-        "description": "A safe and spacious parking area for your convenience when arriving and leaving."
-      },
-      "4": {
-        "title": "Kid-Friendly",
-        "description": "Special kids menu, high chairs, and a safe atmosphere to keep children comfortable and happy."
-      },
-      "5": {
-        "title": "Dine-in & Takeaway",
-        "description": "Enjoy your meal at the restaurant or order takeaway to suit your preference."
-      }
-    }
-  },
-  "gallery": {
-    "subtitle": "Visual Stories",
-    "title": "Gallery & Restaurant Atmosphere",
-    "description": "A collection of authentic moments from our kitchen, cozy interiors, and the warm evening ambiance at Yummy Yummy Legian."
-  },
-  "footer": {
-    "title": "Yummy Yummy Food & Drink",
-    "description": "Quality comfort food, handcrafted beverages, and relaxed moments in the heart of Legian, Bali.",
-    "item": {
-      "link_button": {
-        "1": {
-          "titl": "Instagram"
-        },
-        "2": {
-          "titl": "Location"
+    "hero": {
+        "subtitle": "Makanan & Minuman",
+        "title": "Yummy Yummy",
+        "title_2": "Food & Drink",
+        "description": "Perpaduan sempurna hidangan lokal favorit dan menu autentik — dari Mie Goreng Udang yang segar hingga Burrito yang menggugah selera. Disajikan dengan pelayanan paling ramah di jantung Legian, Bali.",
+        "CTA": "Lihat Menu"
+    },
+    "about": {
+        "subtitle": "Tentang Kami",
+        "title": "Kenyamanan dalam Setiap Detail",
+        "description": "Yummy Yummy adalah restoran casual yang menghadirkan suasana hangat dan bersahabat. Kami menciptakan tempat istimewa untuk menikmati hidangan lezat, berbagi cerita, dan terasa seperti di rumah sendiri.",
+        "item": {
+            "1": {
+                "title": "Suasana Casual & Cosy",
+                "description": "Desain interior yang nyaman dengan sentuhan rustic-vintage dan tropical modern untuk bersantai dan menikmati waktu berkualitas."
+            },
+            "2": {
+                "title": "Wi-Fi Gratis",
+                "description": "Koneksi internet stabil untuk bekerja ringan, browsing, atau tetap terhubung dengan teman dan keluarga."
+            },
+            "3": {
+                "title": "Menu & Cocktail Istimewa",
+                "description": "Pilihan minuman signature dan menu fusion yang menggabungkan cita rasa lokal dan internasional."
+            },
+            "4": {
+                "title": "Jam Operasional Fleksibel",
+                "description": "Buka setiap hari dari pukul 08:00 hingga 22:00 untuk sarapan, makan siang, makan malam, atau sekadar bersantai."
+            },
+            "5": {
+                "title": "Ramah untuk Semua",
+                "description": "Aksesibilitas penuh dengan kursi roda friendly dan tempat duduk nyaman untuk semua tamu."
+            },
+            "6": {
+                "title": "Ideal untuk Grup & Wisatawan",
+                "description": "Sempurna untuk keluarga, teman-teman, dan turis yang berkunjung ke Legian dengan pelayanan yang personal."
+            }
         }
-      }
+    },
+    "menu": {
+        "title": "Menu Andalan",
+        "subtitle_1": "— Minuman —",
+        "subtitle_2": "— Makanan —"
+    },
+    "reservation": {
+        "subtitle": "Pemesanan",
+        "title": "Kami Siap Menyambut Anda",
+        "description": "Pesan meja dengan mudah atau tanyakan ketersediaan tempat. Kunjungi Yummy Yummy dan rasakan pengalaman bersantap yang hangat, santai, dan penuh cita rasa autentik.",
+        "item": {
+            "location":{
+                "title": "Lokasi",
+                "road": "Jl. Benesari No.10, Legian,",
+                "subdistrict": "Kec. Kuta, Kabupaten Badung,",
+                "province": "Bali 80361"
+            },
+            "phone": {
+                "title": "Telepon",
+                "number": "+62 819-3430-3031"
+            },
+            "opening_hours": {
+                "title": "Jam Buka",
+                "hours": "08:00 - 22:00"
+            }
+        }
+    },
+    "facilities": {
+        "subtitle": "Kenyamanan & Fasilitas",
+        "title": "Lengkapi Pengalaman Anda",
+        "description": "Kami menyediakan berbagai fasilitas untuk memastikan pengalaman bersantap Anda lebih nyaman, menyenangkan, dan berkesan di setiap kunjungan.",
+        "item":{
+            "1":{
+                "title": "Minuman Beralkohol Tersedia",
+                "description": "Pilihan wine, beer, dan cocktail premium untuk tamu dewasa yang ingin menikmati pengalaman bersantap lebih lengkap."
+            },
+            "2":{
+                "title": "Layout Ramah Grup",
+                "description": "Ruang dan kursi yang fleksibel untuk acara keluarga besar, gathering teman, atau pesta corporate."
+            },
+            "3":{
+                "title": "Parkir Luas",
+                "description": "Area parkir yang cukup dan aman untuk kenyamanan Anda dalam datang dan pergi."
+            },
+            "4":{
+                "title": "Ramah Anak",
+                "description": "Menu kids special, highchair, dan suasana yang aman membuat anak-anak merasa nyaman dan senang."
+            },
+            "5":{
+                "title": "Dine-in & Takeaway",
+                "description": "Nikmati hidangan di restoran atau pesan untuk dibawa pulang sesuai keinginan Anda."
+            }
+        }
+    },
+    "gallery": {
+        "subtitle": "Cerita Visual",
+        "title": "Galeri & Suasana Restoran",
+        "description": "Koleksi momen autentik dari dapur kami, interior yang nyaman, hingga suasana hangat malam hari yang tercipta di Yummy Yummy Legian."
+    },
+    "footer": {
+        "title": "Yummy Yummy Food & Drink",
+        "description": "Comfort food berkualitas, minuman hangat istimewa, dan momen santai berkualitas di jantung Legian, Bali.",
+        "item": {
+            "link_button":{
+                "1": {
+                    "titl": "Instagram"
+                },
+                "2": {
+                    "titl": "Lokasi"
+                }
+            }
+        }
     }
-  }
 }
