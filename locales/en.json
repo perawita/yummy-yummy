@@ -1,0 +1,112 @@
+{
+    "hero": {
+        "subtitle": "Food & Drink",
+        "title": "Yummy Yummy",
+        "title_2": "Food & Drink",
+        "description": "The perfect blend of your favorite local dishes and authentic Mexican menu — from fresh Shrimp Fried Noodles to delicious Burritos. Served with the friendliest service in the heart of Legian.",
+        "CTA": "View Menu"
+    },
+    "about": {
+        "subtitle": "About Our Place",
+        "title": "Comfort in Every Detail",
+        "description": "We create a warm and welcoming space — a place to enjoy meals, share stories, and feel at home.",
+        "item": {
+            "1": {
+                "title": "Casual & Cosy Atmosphere",
+                "description": "A comfortable setting to relax, eat, and enjoy time together."
+            },
+            "2": {
+                "title": "Free Wi-Fi",
+                "description": "Stable connection for light work or socializing."
+            },
+            "3": {
+                "title": "Great Cocktails & Menu",
+                "description": "Special drink selections to complement every meal."
+            },
+            "4": {
+                "title": "Open Until 22:00",
+                "description": "Flexible operating hours, perfect for lunch to dinner."
+            },
+            "5": {
+                "title": "Wheelchair Friendly",
+                "description": "Accessible and comfortable for all guests."
+            },
+            "6": {
+                "title": "Ideal for Groups & Tourists",
+                "description": "Perfect for families, friends, and tourists in Legian."
+            }
+        }
+    },
+    "menu": {
+        "title": "Signature Menu",
+        "subtitle_1": "— Beverages —",
+        "subtitle_2": "— Food —"
+    },
+    "reservation": {
+        "subtitle": "Reservation",
+        "title": "We're Ready to Welcome You",
+        "description": "Book a table or check availability easily. Like visiting your own home — warm, relaxed, and full of flavor.",
+        "item": {
+            "location":{
+                "title": "Location",
+                "road": "Jl. Benesari No.10, Legian,",
+                "subdistrict": "Kec. Kuta, Kabupaten Badung,",
+                "province": "Bali 80361"
+            },
+            "phone": {
+                "title": "Phone",
+                "number": "+62 819-3430-3031"
+            },
+            "opening_hours": {
+                "title": "Opening Hours",
+                "hours": "08:00 AM – 10:00 PM"
+            }
+        }
+    },
+    "facilities": {
+        "subtitle": "Comfort & Convenience",
+        "title": "Facilities & Special Features",
+        "description": "Small details that make dining experience more comfortable and enjoyable.",
+        "item":{
+            "1":{
+                "title": "Alcohol Available",
+                "description": "Alcoholic beverages available for adult guests."
+            },
+            "2":{
+                "title": "Group-friendly Seating",
+                "description": "Comfortable seating for large groups."
+            },
+            "3":{
+                "title": "Parking Information",
+                "description": "Large parking area for guest convenience."
+            },
+            "4":{
+                "title": "Kids Friendly",
+                "description": "Special space and menu for children's comfort."
+            },
+            "5":{
+                "title": "Dine-in & Takeaway",
+                "description": "Enjoy meals here or take them home."
+            }
+        }
+    },
+    "gallery": {
+        "subtitle": "Visual Story",
+        "title": "Gallery & Ambiance",
+        "description": "Moments captured — from the kitchen, atmosphere, to warm evenings in Legian."
+    },
+    "footer": {
+        "title": "Yummy Yummy Food & Drink",
+        "description": "Comfort food, warm drinks, and slow moments in the heart of Legian.",
+        "item": {
+            "link_button":{
+                "1": {
+                    "titl": "Instagram"
+                },
+                "2": {
+                    "titl": "Location"
+                }
+            }
+        }
+    }
+}
