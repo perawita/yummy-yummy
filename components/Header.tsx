@@ -21,9 +21,7 @@ export default function Header({ t }: Props) {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-20">
           {/* Language Switcher */}
-          <div className="flex items-center gap-3 
-          rounded-full
-          bg-gradient-to-r from-emerald-500 to-green-500">
+          <div className="flex items-center gap-3 rounded-full">
             <span className="text-sm text-neutral-600 font-body">
               {currentLocale.toUpperCase()}
             </span>
